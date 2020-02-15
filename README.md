@@ -1,6 +1,5 @@
 # K101-Front-Final-02.16.2020
 
-# Front-Final-K100-K300
 
 <h1>Qrup1</h1>
 
